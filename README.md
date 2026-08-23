@@ -10,4 +10,4 @@
 
 - 🎯Todos os meus projetos uso Git/Github
 
-<img width="1920" height="1080" alt="agamenon" src="https://github.com/user-attachments/assets/37adc5f1-88bf-4bd2-9167-c95782f08d6d" />
+<img width="1939" height="811" alt="ChatGPT Image 22 de ago  de 2026, 22_35_40" src="https://github.com/user-attachments/assets/4561e204-6402-4a44-9c5c-f0b18991b3be" />

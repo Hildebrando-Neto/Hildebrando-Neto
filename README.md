@@ -10,3 +10,4 @@
 
 - 🎯Todos os meus projetos uso Git/Github
 
+<img width="1939" height="811" alt="ChatGPT Image 22 de ago  de 2026, 22_35_40" src="https://github.com/user-attachments/assets/e85448fb-539b-49a6-87f4-93bd6c3f8a09" />
